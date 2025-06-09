@@ -10,7 +10,7 @@ import Tech from "./components/Tech.vue"
   </div>
 
   <div>
-  <h1 class="text-white text-7xl font-bold">SOFTWARE</h1>
+  <h1 class="text-[#fdfffc] text-7xl font-bold">SOFTWARE</h1>
   <h1 class="text-gray-400 text-7xl font-bold">DEVELOPER</h1>
   <p class="text-gray-400  font-bold pt-10">I'm a full-stack developer with a passion for building responsive, user-friendly web applications. I work mainly with React, JavaScript, and Express.js</p>
 

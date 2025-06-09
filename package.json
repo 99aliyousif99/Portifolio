@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@kalimahapps/vue-icons": "^1.8.1",
     "@tailwindcss/vite": "^4.1.8",
     "animate.css": "^4.1.1",
     "tailwindcss": "^4.1.8",

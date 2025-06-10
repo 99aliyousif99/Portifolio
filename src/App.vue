@@ -1,6 +1,7 @@
 <script setup>
 import FaceCard from "./components/FaceCard.vue";
 import Tech from "./components/Tech.vue"
+import Skills from "./components/Skills.vue"
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import Tech from "./components/Tech.vue"
 
 
   <Tech/>
+  <skills/>
 </div>
 </div>
 </template>

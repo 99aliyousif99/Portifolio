@@ -14,7 +14,7 @@ import { DeVuejsOriginal } from '@kalimahapps/vue-icons';
   <div class="mt-20">
     <h1 class="text-[#ff0022] text-7xl font-bold mb-10">TOOLS</h1>
     <div class="grid grid-cols-3 gap-4">
-      <div class="flex flex-row w-35 h-14 items-center justify-between rounded-md hover:bg-[#08263d] transition-colors duration-300 cursor-pointer">
+      <div class=" px-0.5 flex flex-row w-35 h-14 items-center justify-between rounded-md hover:bg-[#08263d] transition-colors duration-300 cursor-pointer">
         <DeFigmaOriginal class="w-8 h-8" />
         <p class="text-2xl font-bold text-white">FIGMA</p>
       </div>

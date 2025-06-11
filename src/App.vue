@@ -2,6 +2,8 @@
 import FaceCard from "./components/FaceCard.vue";
 import Tech from "./components/Tech.vue"
 import Skills from "./components/Skills.vue"
+import Projects from "./components/Projects.vue";
+Projects
 </script>
 
 <template>
@@ -18,6 +20,7 @@ import Skills from "./components/Skills.vue"
 
   <Tech/>
   <skills/>
+  <Projects/>
 </div>
 </div>
 </template>

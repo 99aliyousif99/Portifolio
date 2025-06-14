@@ -2,7 +2,7 @@
 export default {};
 </script>
 <template>
-  <h1 class="text-[#ff0022] text-7xl font-bold mb-10 mt-20">Work experience</h1>
+  <h1 class="text-[#ff0022] text-6xl font-bold mb-10 mt-20">Work experience</h1>
   <ol class="relative border-s border-gray-200 dark:border-gray-700">
     <li class="mb-10 ms-4">
       <div

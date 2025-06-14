@@ -3,7 +3,7 @@ export default {};
 </script>
 
 <template>
-  <h1 class="text-[#ff0022] text-7xl font-bold mb-10 mt-20">Skills</h1>
+  <h1 class="text-[#ff0022] text-6xl font-bold mb-10 mt-20">Skills</h1>
   <div class="">
   <details class="collapse bg-[#011627]">
     <summary class="collapse-title font-semibold text-[#fdfffc]">

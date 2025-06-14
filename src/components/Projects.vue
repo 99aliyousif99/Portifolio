@@ -2,10 +2,10 @@
 export default {};
 </script>
 <template>
-  <h1 class="text-[#ff0022] text-7xl font-bold mb-10 mt-20">Projects</h1>
-
+  <h1 class="text-[#ff0022] text-6xl font-bold mb-10 mt-20">Projects</h1>
+<div class="flex flex-col gap-5">
   <div
-    class="max-w-sm py-2 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700"
+    class="max-w-sm py-2 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 p-4"
   >
     <a href="#">
       <h5
@@ -43,7 +43,7 @@ export default {};
   </div>
 
   <div
-    class="max-w-sm py-3 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700"
+    class="max-w-sm py-3 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 p-4"
   >
     <a href="#">
       <h5
@@ -79,5 +79,6 @@ export default {};
         />
       </svg>
     </a>
+  </div>
   </div>
 </template>

@@ -4,6 +4,7 @@ import Tech from "./components/Tech.vue"
 import Skills from "./components/Skills.vue"
 import Projects from "./components/Projects.vue";
 import Work from "./components/Work.vue";
+import Contact from "./components/Contact.vue";
 
 </script>
 
@@ -23,6 +24,7 @@ import Work from "./components/Work.vue";
   <skills/>
   <Projects/>
   <Work/>
+  <Contact/>
 </div>
 </div>
 </template>
